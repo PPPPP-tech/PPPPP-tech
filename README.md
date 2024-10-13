@@ -1,5 +1,5 @@
 # Bài tập Cơ sở Lập trình
-# Chương trình Luyện tập và Kiểm tra Trắc nghiệm
+# Chương trình luyện tập và kiểm tra trắc nghiệm
 ## Mô tả
 Chương trình trắc nghiệm cung cấp hai chế độ chính:
 1. **Kiểm tra**: Người dùng sẽ tham gia làm bài thi với số lượng 10 câu hỏi, và chỉ xem kết quả sau khi hoàn thành toàn bộ bài kiểm tra.
